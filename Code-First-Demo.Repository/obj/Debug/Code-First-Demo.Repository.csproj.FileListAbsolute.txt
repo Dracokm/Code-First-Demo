@@ -1,0 +1,16 @@
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.csprojAssemblyReference.cache
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\Code-First-Demo.Repository.dll.config
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\Code-First-Demo.Repository.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\Code-First-Demo.Repository.pdb
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\Code-First-Demo.Model.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\EntityFramework.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\Code-First-Demo.Model.pdb
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\EntityFramework.xml
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.csproj.CopyComplete
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.pdb
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code_First_Demo.Repository.Migrations.MyMigration.resources
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Repository\obj\Debug\Code-First-Demo.Repository.csproj.GenerateResource.cache

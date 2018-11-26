@@ -1,0 +1,6 @@
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\bin\Debug\Code-First-Demo.Model.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\bin\Debug\Code-First-Demo.Model.pdb
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\obj\Debug\Code-First-Demo.Models.csprojAssemblyReference.cache
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\obj\Debug\Code-First-Demo.Models.csproj.CoreCompileInputs.cache
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\obj\Debug\Code-First-Demo.Model.dll
+C:\Users\KMullins\Documents\CRUD_Project\Code-First-Demo\Code-First-Demo.Model\obj\Debug\Code-First-Demo.Model.pdb
